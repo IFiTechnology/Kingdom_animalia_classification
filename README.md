@@ -4,6 +4,13 @@
 
 This project is designed to classify animals into their respective families and it is acheived by applying all the four pillars of OOP (Object Oriented Programming).
 
+
+* OOP
+* Object oriented programming
+* Using the four pillars of OOP
+* create code that classifies animals in their respective familes.
+
+
 since animal can br classified based on the four conditions given which are:
 1. With back bone
 2. With out back bone
