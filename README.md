@@ -11,7 +11,7 @@ This project is designed to classify animals into their respective families and 
 * create code that classifies animals in their respective familes.
 
 
-since animal can br classified based on the four conditions given which are:
+since animal can be classified based on the four conditions given which are:
 1. With back bone
 2. With out back bone
 3. Warm blooded 
@@ -21,4 +21,12 @@ this four condition is been passed as an arguement in Animal class constructor, 
 
 while instatiating the subclasses the values of this arguements are been validated by booleans.
 
+## How to run this code 
+1. clone this project
+2. make sure you have a text editor with node insalled in it.
+3. Open this folder on the text editor and run the code on your terminal.
 
+
+## How to add more clases 
+1. create a subclass an instantiate
+2. input the values of the arguement in the base class contructor.
