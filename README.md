@@ -1,5 +1,9 @@
 # Kingdom_animalia_classification
 
+## A project written to aid an institution classify Animals in their respective families.
+
+This project is designed to classify animals into their respective families and it is acheived by applying all the four pillars of OOP (Object Oriented Programming).
+
 since animal can br classified based on the four conditions given which are:
 1. With back bone
 2. With out back bone
