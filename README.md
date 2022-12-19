@@ -8,7 +8,7 @@ This project is designed to classify animals into their respective families and 
 * OOP
 * Object oriented programming
 * Using the four pillars of OOP
-* create code that classifies animals in their respective familes.
+* create code that classifies animals in their respective families.
 
 
 since animal can be classified based on the four conditions given which are:
@@ -17,7 +17,7 @@ since animal can be classified based on the four conditions given which are:
 3. Warm blooded 
 4. Cold blooded 
 
-this four condition is been passed as an arguement in Animal class constructor, which will the be inherited by the subclasses of the base class which the Animal class.
+this four condition is been passed as an arguement in Animal class constructor, which will the be inherited by the subclasses of the base class which the Animal class. Note that when yoy try to instantiate the base class it will throw an error because the principle of abstraction was used, so the only way to implement this is by extending it.
 
 while instatiating the subclasses the values of this arguements are been validated by booleans.
 
