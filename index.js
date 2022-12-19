@@ -21,9 +21,7 @@ class Animal { //Base class
 }
 
 
-
-
-
+// subclasses
   
 class Mammal extends Animal {
   constructor(withBackBone, withoutBackBone, warmBlooded, coldBlooded) {
